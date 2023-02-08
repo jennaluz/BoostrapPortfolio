@@ -1,0 +1,15 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap'); /*"Prompt", sans-serif*/
+
+:root {
+    --pastel-blue: #5d7298a5;
+    --white: #ffffff;
+}
+
+body {
+    background-color: var(--pastel-blue);
+    color: var(--white);
+    font-family: "Prompt", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
